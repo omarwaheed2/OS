@@ -1,0 +1,5 @@
+All the commands that were specified in the assignment were fulfilled. It worked fine and passed all the tests. I also created separate methods for each command so the main method is not loaded with tons of code.
+
+If you have any trouble running it please let me know. Thank you
+
+Omar Waheed

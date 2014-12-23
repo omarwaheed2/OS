@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=id\ burstTime\ CPUScheduler
+comment0.target=TestThread(java.lang.String,\ int,\ Scheduler)
+comment0.text=\r\n\ TestThread\ constructor\r\n\ @param\ String\ id,\ int\ burstTime,\ Scheduler\ CPUScheduler\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ this\ method\ returns\ name\r\n\ @return\ String\r\n
+comment2.params=
+comment2.target=int\ getBurst()
+comment2.text=\r\n\ this\ method\ gets\ burst\ time\r\n\ @return\ int\r\n
+comment3.params=
+comment3.target=double\ calculateRatio()
+comment3.text=\r\n\ this\ method\ calculates\ ratio.\ (used\ for\ aging)\r\n\ @return\ double\r\n
+comment4.params=
+comment4.target=void\ run()
+comment4.text=\r\n\ This\ is\ the\ run\ method.\r\n
+numComments=5
